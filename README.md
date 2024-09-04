@@ -1,2 +1,2 @@
-# pemesanan_tiketbus
-Pemesanan Tiket Bus Berbasis Web Dengan Tampilan Yang Nyaman Di lihat dan dengan menu CRUD Serta Mysql
+# Pemesanan Tiket Wisata Tasik 
+Pemesanan Tiket Wisata Berbasis Web Dengan Tampilan Yang Nyaman Di lihat dan dengan menu CRUD Serta Mysql
